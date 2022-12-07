@@ -1,0 +1,12 @@
+{
+  "loginData" :[
+    {
+      "postnummer" : "872131805",
+      "password": "Test1357"
+    },
+    {
+      "postnummer" : "803020659",
+      "password" : "Startm3!"
+    }
+  ]
+}
